@@ -1,0 +1,3 @@
+C:/Users/vimco/CLionProjects/task_31.5.1_Shared_toy/cmake-build-debug/CMakeFiles/task_31_5_1_Shared_toy.dir
+C:/Users/vimco/CLionProjects/task_31.5.1_Shared_toy/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vimco/CLionProjects/task_31.5.1_Shared_toy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
